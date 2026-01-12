@@ -16,7 +16,7 @@ et de générer une fiche prête pour l’upload sur La-Cale à partir de MediaI
 ## Prérequis
 
 ### MediaInfo
-Télécharger MediaInfo et placer l’exécutable ici :
+Télécharger MediaInfo (Version CLI : https://mediaarea.net/fr/MediaInfo/Download/Windows) et placer l’exécutable ici :
 C:\mediainfo\mediainfo.exe
 
 ### Python
