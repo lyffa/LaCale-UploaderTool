@@ -29,7 +29,7 @@ Dans un terminal :
 python LaCale_UploadHelper.py
 
 Une fenêtre s’ouvre pour choisir un fichier vidéo.  
-La fiche La-Cale est affichée automatiquement.
+La fiche correspondant aux choix La-Cale est affichée automatiquement.
 
 ## Exemple
 Qualité : 1080p (Full HD)
